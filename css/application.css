@@ -228,4 +228,39 @@ img {
   margin-top: 1em;
   margin-bottom: 2em; }
 
+
+.disclaimer {
+  font-size: 1.3em;
+}
+
+.disclaimer.main-text {
+  margin-top: 0;
+}
+
+.disclaimer h4 {
+  border-top: 3px solid #383e47;
+  font-weight: 600;
+  padding-top: 0.5em;
+  display: inline-block;
+}
+
+.disclaimer p,
+.disclaimer li,
+.disclaimer h5 {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+
+.disclaimer h5 {
+  font-weight: 800;
+}
+
+.disclaimer .pointer {
+  cursor: pointer;
+  border-bottom: 1px dashed;
+  display: inline-block;
+}
+
+
 /*# sourceMappingURL=application.css.map */
