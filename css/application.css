@@ -219,7 +219,13 @@ img {
     .desktop {
       display: none; } }
 
-.read-more {
-  margin-bottom: 15px; }
+.read-more-container {
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+.read-more img {
+  margin-top: 1em;
+  margin-bottom: 2em; }
 
 /*# sourceMappingURL=application.css.map */
