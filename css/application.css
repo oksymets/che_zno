@@ -262,5 +262,9 @@ img {
   display: inline-block;
 }
 
+iframe {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 /*# sourceMappingURL=application.css.map */
