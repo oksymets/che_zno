@@ -25,7 +25,9 @@ a {
 h1 {
   font-size: 3.5em;
   line-height: 1.8em;
-  font-weight: bold; }
+  font-weight: bold;
+  margin-top: 20px;
+}
 
 h2 {
   font-size: 2em;
@@ -117,7 +119,7 @@ p, li {
   color: #FAA61A; }
 
 .cover {
-  margin-bottom: 15%; }
+  margin-bottom: 5%; }
 
 h1 {
   text-align: center; }
